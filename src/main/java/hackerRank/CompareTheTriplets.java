@@ -1,7 +1,5 @@
 package hackerRank;
 
-import javax.jws.soap.SOAPBinding;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
